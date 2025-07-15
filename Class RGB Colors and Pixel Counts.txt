@@ -1,0 +1,38 @@
+Class RGB Colors and Pixel Counts:
+Animal: RGB [ 64. 128.  64.], Pixel Count: 8
+Archway: RGB [192.   0. 128.], Pixel Count: 7
+Bicyclist: RGB [  0. 128. 192.], Pixel Count: 8
+Bridge: RGB [  0. 128.  64.], Pixel Count: 13
+Building: RGB [128.   0.   0.], Pixel Count: 8
+Car: RGB [ 64.   0. 128.], Pixel Count: 10
+CartLuggagePram: RGB [ 64.   0. 192.], Pixel Count: 30
+Child: RGB [192. 128.  64.], Pixel Count: 20
+Column_Pole: RGB [192. 192. 128.], Pixel Count: 37
+Fence: RGB [ 64.  64. 128.], Pixel Count: 39
+LaneMkgsDriv: RGB [128.   0. 192.], Pixel Count: 49
+LaneMkgsNonDriv: RGB [192.   0.  64.], Pixel Count: 29
+Misc_Text: RGB [128. 128.  64.], Pixel Count: 39
+MotorcycleScooter: RGB [192.   0. 192.], Pixel Count: 30
+OtherMoving: RGB [128.  64.  64.], Pixel Count: 29
+ParkingBlock: RGB [ 64. 192. 128.], Pixel Count: 43
+Pedestrian: RGB [64. 64.  0.], Pixel Count: 40
+Road: RGB [128.  64. 128.], Pixel Count: 12
+RoadShoulder: RGB [128. 128. 192.], Pixel Count: 19
+Sidewalk: RGB [  0.   0. 192.], Pixel Count: 39
+SignSymbol: RGB [192. 128. 128.], Pixel Count: 35
+Sky: RGB [128. 128. 128.], Pixel Count: 20
+SUVPickupTruck: RGB [ 64. 128. 192.], Pixel Count: 44
+TrafficCone: RGB [ 0.  0. 64.], Pixel Count: 19
+...
+Tunnel: RGB [64.  0. 64.], Pixel Count: 25
+VegetationMisc: RGB [192. 192.   0.], Pixel Count: 33
+Void: RGB [0. 0. 0.], Pixel Count: 30
+Wall: RGB [ 64. 192.   0.], Pixel Count: 45
+
+
+12/12 ━━━━━━━━━━━━━━━━━━━━ 13s 1s/step - accuracy: 0.9250 - loss: 0.4523
+Validation Loss: 0.450753778219223
+Validation Accuracy: 0.9206485152244568
+29/29 ━━━━━━━━━━━━━━━━━━━━ 29s 1s/step - accuracy: 0.9033 - loss: 0.5154
+Test Loss: 0.4966568350791931
+Test Accuracy: 0.9072554111480713
